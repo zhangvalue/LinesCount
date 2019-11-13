@@ -9,7 +9,6 @@
  2. **ode_type为需要统计的文件的后缀**比如 .py
 ## 输出选项：
 最终的输出就为当前的目录下的所有的.py文件的统计的总行数、注释行数、除去空白行和注释行之后的行数
- [^1]: [mermaid语法说明](https://mermaidjs.github.io/)
 ## 效果图
 CSDN链接: [link](https://blog.csdn.net/zhangvalue/article/details/103053805).
 ![Alt](https://img-blog.csdnimg.cn/20191113174944771.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3poYW5ndmFsdWU=,size_16,color_FFFFFF,t_70)
